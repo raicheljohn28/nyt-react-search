@@ -1,0 +1,8 @@
+.form-btn{
+    background-color: rgb(23, 131, 255);
+    color: white;
+}
+
+.form-btn:hover{
+opacity: .7;
+}

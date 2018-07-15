@@ -1,0 +1,13 @@
+.save-btn {
+    float: right;
+    color: white;
+    margin-top: -24px;
+    background-color: rgb(250, 205, 91);
+    position:relative;
+    
+  }
+  
+  .save-btn:hover {
+    background-color: rgb(73, 179, 153);
+    
+  }
